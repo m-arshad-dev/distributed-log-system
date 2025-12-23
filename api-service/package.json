@@ -1,0 +1,8 @@
+{
+  "name": "api-service",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.19.0",
+    "mongodb": "^6.5.0"
+  }
+}
